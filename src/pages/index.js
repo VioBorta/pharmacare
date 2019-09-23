@@ -1,0 +1,14 @@
+export { default as LoginOrRegister } from './loginOrRegister/LoginOrRegister.container';
+export { default as Login } from './login/Login.container';
+export { default as Register } from './register/Register.container';
+export { default as Home } from './home/Home.container';
+export { default as Assistiti } from './assistiti/Assistiti.container';
+export { default as Privacy } from './privacy/Privacy.container';
+export { default as Profile } from './profile/Profile.container';
+export { default as Tutori } from './tutori/Tutori.container';
+export { default as User } from './user/User.container';
+export { default as ListOfServices } from './listOfServices/ListOfServices.container';
+export { default as ListOfRequests } from './listOfRequests/ListOfRequests.container';
+export { default as SearchOnMap } from './searchOnMap/SearchOnMap.container';
+export { default as Maps } from './maps/Maps.container';
+export { default as ConfirmPhoneNumber} from './confirmPhoneNumber/ConfirmPhoneNumber.container';

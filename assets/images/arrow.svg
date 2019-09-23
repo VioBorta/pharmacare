@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="10px" viewBox="0 0 14 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>↳Color</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6.39355659,17 C5.62391654,17 5.35670761,16.4903505 5.8028831,15.8528728 L11.1961936,8.14712715 C11.6396137,7.51358632 12.3558784,7.50964952 12.8021716,8.14712715 L18.1969051,15.8528728 C18.6404422,16.4864137 18.3803732,17 17.6064434,17 L6.39355659,17 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-Arrowhead-/-Down" transform="translate(-5.000000, -7.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="↳Color" fill="#50D2C2" transform="translate(12.000000, 12.000000) scale(1, -1) translate(-12.000000, -12.000000) " xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

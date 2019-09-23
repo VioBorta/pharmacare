@@ -1,0 +1,10 @@
+export { default as Gradient } from './gradient/Gradient';
+export { default as CustomButton } from "./button/Button";
+export { default as Footer } from "./footer/Footer";
+export { default as BackToProfile } from "./backToProfile/BackToProfile";
+export { default as HeaderRequests } from "./header/HeaderRequests";
+export { default as MyRequests } from "./myRequests/MyRequests";
+export { default as ServicesItem } from "./servicesItem/ServicesItem";
+export { default as SearchHeader } from "./searchHeader/SearchHeader";
+export { default as ShowPharmaPharmacies } from "./showPharmaPharmacies/ShowPharmaPharmacies";
+export { default as ShowOtherPharmacies } from "./showOtherPharmacies/ShowOtherPharmacies";
